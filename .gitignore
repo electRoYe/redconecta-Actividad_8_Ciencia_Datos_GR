@@ -1,0 +1,23 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache de Joblib
+cache_joblib/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Documentos de la evaluacion (no versionar binarios pesados)
+*.docx
+S8_*.pdf
