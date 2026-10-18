@@ -21,3 +21,6 @@ Thumbs.db
 # Documentos de la evaluacion (no versionar binarios pesados)
 *.docx
 S8_*.pdf
+
+# Permitir el informe final en PDF
+!Informe_RedConecta_Unidad3.pdf
