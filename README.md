@@ -1,11 +1,13 @@
-# RedConecta Telecom S. A. — Análisis operacional reproducible
+# RedConecta Telecom S. A. — Análisis operacional reproducible  
+# Guillermo Rodriguez G.
+# Ciencia_De_Datos - Actividad_semana_8
 
 Proyecto de ciencia de datos para analizar el desempeño del servicio de
 telecomunicaciones de **RedConecta Telecom S. A.** y respaldar decisiones de
 mejora de la calidad del servicio, mediante un flujo de trabajo reproducible,
 código modular y control de versiones.
 
-> Asignatura: Ciencia de Datos — Semana 8 (Unidad 3) · IACC
+> Asignatura: Ciencia de Datos — Semana 8 (Unidad 3) · 
 
 ---
 
@@ -123,4 +125,4 @@ jupyter notebook notebooks/analisis_redconecta.ipynb
 
 ---
 
-*Equipo de Ciencia de Datos — RedConecta Telecom S. A.*
+*Guillermo Rodriguez G - Actividad semana 8*

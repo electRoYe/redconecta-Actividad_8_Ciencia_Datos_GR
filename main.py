@@ -1,4 +1,4 @@
-"""Flujo de trabajo reproducible - Proyecto RedConecta Telecom S. A.
+"""Flujo de trabajo reproducible -  Actividad semana 8 - Proyecto RedConecta Telecom S. A.
 
 Ejecuta de principio a fin el analisis operacional:
     1. Carga y limpieza del dataset (cacheada con Joblib).
@@ -12,7 +12,11 @@ Uso:
 
 Todas las rutas son relativas a la raiz del proyecto, por lo que el script
 es reproducible en cualquier equipo que instale requirements.txt.
+
+Guillermo Rodriguez G.
+Ciencia de Datos.
 """
+
 from __future__ import annotations
 
 from pathlib import Path
